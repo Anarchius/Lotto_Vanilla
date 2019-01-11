@@ -36,7 +36,7 @@ function checkNumbers()
 <form method="POST">
     <fieldset>
         <legend>
-            GENERATOR LOTTO<br/>
+            GENERATOR LOTTO - SPRÓBUJ SZCZĘŚCIA !<br/>
         </legend>
         <?php
         for ($i=1; $i <= 49; $i++) {
